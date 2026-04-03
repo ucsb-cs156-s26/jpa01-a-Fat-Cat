@@ -1,4 +1,4 @@
-# STARTER-jpa01-a-Fat-Cat
+# jpa01-a-Fat-Cat
 
 Deployed at: https://jpa01-a-fat-cat.dokku-01.cs.ucsb.edu
 
